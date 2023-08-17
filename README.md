@@ -7,9 +7,9 @@ Java as programming launguage was used to run these snippet.
 we used Eclipse as IDE.**
 
 **Steps:**
-1. Install Eclipse IDe on your system.
+1. Install Eclipse IDE on your system.
 2. Open Eclipse IDE & Create Simple Maven Project.
-3. Updates POM dor xml fiel by adding dependecies of selenium java , WebDriverManager & TestNG.
+3. Updates POM dot xml fiel by adding dependecies of selenium java , WebDriverManager & TestNG.
 4. For reporting we will used Extend Report if required.
 
 SeleniumSnippets:
